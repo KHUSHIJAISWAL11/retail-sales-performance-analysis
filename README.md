@@ -110,3 +110,19 @@ Retail-Sales-Performance-Analysis/
    ├── product_analysis.png
    ├── customer_analysis.png
    └── drillthrough.png
+
+---
+
+## Key Skills Demonstrated
+- Data Cleaning
+- SQL Query Writing
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Dashboard Development
+- KPI Reporting
+- Business Analysis
+- Interactive Reporting using Power BI
+---
+
+## Author
+Khushi Jaiswal
